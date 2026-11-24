@@ -1,0 +1,7 @@
+method,label,0,1,2,3,4,5
+fixed-examples,defect,2,1,0,0,0,3
+fixed-examples,accept,4,0,0,0,0,0
+broader-checks,defect,0,1,0,0,1,4
+broader-checks,accept,4,0,0,0,0,0
+strict-mix,defect,0,0,0,0,1,5
+strict-mix,accept,2,1,0,0,1,0
