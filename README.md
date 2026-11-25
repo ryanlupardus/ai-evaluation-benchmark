@@ -21,7 +21,7 @@ python -B benchmark.py
 python -B -m unittest -v
 ```
 
-The tests check the fixture totals, an intermittent miss and the calibration outcomes. Local verification used Windows with Python 3.10.11 and 3.14.7. GitHub Actions is configured for Windows and Linux with both Python series. Hosted CI remains unverified.
+The tests check the fixture totals, an intermittent miss and the calibration outcomes. Local verification used Windows with Python 3.10.11 and 3.14.7. GitHub Actions is configured for Windows and Linux with both Python series. [Hosted GitHub Actions CI](https://github.com/ryanlupardus/ai-evaluation-benchmark/actions/runs/45376569344) passed all four jobs on Windows and Linux with Python 3.10 and 3.14.
 
 The portfolio founder commissioned the sample and set the evidence and disclosure requirements. Codex prepared the implementation, fixtures and checks. [Contributions and AI assistance](CONTRIBUTIONS.md)
 
